@@ -1,5 +1,7 @@
 # react-menu
 
+[![Join the chat at https://gitter.im/edcast-inc/react-menu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/edcast-inc/react-menu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An accessible menu component built for React.JS
 
 See example at [http://instructure-react.github.io/react-menu/](http://instructure-react.github.io/react-menu/)
